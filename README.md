@@ -33,7 +33,7 @@
     <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wasifur-rahman-siyam&show_icons=true&locale=en&layout=compact" alt="wasifur-rahman-siyam" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasifur-rahman-siyam&theme=tokyonight" alt="wasifur-rahman-siyam" /></p>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wasifur-rahman-siyam&" alt="wasifur-rahman-siyam" /></p>
