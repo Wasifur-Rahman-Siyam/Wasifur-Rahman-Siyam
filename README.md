@@ -36,7 +36,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasifur-rahman-siyam&theme=tokyonight" alt="wasifur-rahman-siyam" /></p>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wasifur-rahman-siyam&" alt="wasifur-rahman-siyam" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wasifur-rahman-siyam&" alt="wasifur-rahman-siyam" /></p>
 
 <br/>
 
